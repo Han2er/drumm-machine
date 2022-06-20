@@ -67,3 +67,19 @@ body{
     flex-direction: column;
     }
   }
+  .switch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .btn{
+    width: 40px;
+    height: 20px;
+    background-color: #d68916;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
